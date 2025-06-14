@@ -1,0 +1,26 @@
+{
+  "property1": {
+    "title": "Luxury Villa",
+    "price": 5500,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "location": {
+      "city": "Los Angeles"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300"
+    ]
+  },
+  "property2": {
+    "title": "Urban Studio",
+    "price": 1300,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "location": {
+      "city": "Chicago"
+    },
+    "images": [
+      "https://via.placeholder.com/400x300"
+    ]
+  }
+}
